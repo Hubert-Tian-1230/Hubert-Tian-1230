@@ -1,19 +1,5 @@
 ## Hi there 👋
-<!-- ### Hi there 👋 -->
-<!--
-**Hubert-Tian-1230/Hubert-Tian-1230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <pre>
       ___           ___           ___       ___       ___     
      /\__\         /\  \         /\__\     /\__\     /\  \    
@@ -27,9 +13,9 @@ Here are some ideas to get you started:
      /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
      \/__/         \/__/         \/__/     \/__/     \/__/    
      
-<strong>Hi, I am zhiyuan-Tang !👋 </strong>
+<strong>Hi, I am Hubert Tian !👋 </strong>
 
-<strong>A front-end developer from China🇨🇳. </strong>
+<strong>A consultant from China. </strong>
 
 </pre> 
 
@@ -62,7 +48,7 @@ Here are some ideas to get you started:
 - <a href="https://juejin.cn/user/932843481465774"><img height="16" width="16" src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web//static/favicons/favicon-16x16.png" style="margin-right:4px"> 掘金主页，访问量7w+,粉丝累计100+</a>
 
 ### 🤝🏻 &nbsp;Connect with Me
-<a href="mailto:ethan4116@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-ethan4116@163.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:o0yamete0o@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-o0yamete0o@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 
 ### 🛳 &nbsp;Your ticket ID for this visit
