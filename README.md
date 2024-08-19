@@ -23,17 +23,10 @@
 
 </pre> 
 
-<img width="100%" alt="game gif" src="./github-contribution-grid-snake.svg"/>
-
 ### ⭐️ &nbsp;Github Star
 
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Hubert-Tian-1230&count_private=true&show_icons=true"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
 
 
 ### 🛠 &nbsp;Tech Stack
