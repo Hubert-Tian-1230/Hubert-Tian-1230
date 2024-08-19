@@ -17,10 +17,7 @@
      /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
      \/__/         \/__/         \/__/     \/__/     \/__/    
      
-<strong>Hi, I am Hubert Tian !👋 </strong>
-
-<strong>Strategy manager from Beijing, China. </strong>
-
+<strong>Hi, I am Hubert Tian !👋 strategy manager from Beijing, China, currently living in Kuala Lumpur, Malaysia.</strong>
 </pre> 
 
 ### ⭐️ &nbsp;Github Star
