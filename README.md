@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome Back Hubert!👋</h1>
+
+### 🛳 &nbsp; Your ID for this visit
+<img src="https://profile-counter.glitch.me/Hubert-Tian-1230/count.svg" />
+<!-- <img src="https://count.getloli.com/get/@:Hubert-Tian-1230?theme=moebooru"> -->
 
 <pre>
       ___           ___           ___       ___       ___     
@@ -15,7 +19,7 @@
      
 <strong>Hi, I am Hubert Tian !👋 </strong>
 
-<strong>A consultant from China. </strong>
+<strong>Strategy manager from Beijing, China. </strong>
 
 </pre> 
 
@@ -50,8 +54,3 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="mailto:o0yamete0o@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-o0yamete0o@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
-
-### 🛳 &nbsp;Your ticket ID for this visit
-<img src="https://profile-counter.glitch.me/Hubert-Tian-1230/count.svg" />
-<!-- <img src="https://count.getloli.com/get/@:Hubert-Tian-1230?theme=moebooru"> -->
