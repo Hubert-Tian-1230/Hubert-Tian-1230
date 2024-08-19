@@ -25,6 +25,13 @@
 
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Hubert-Tian-1230&count_private=true&show_icons=true"/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
@@ -40,12 +47,6 @@
 ![Shell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
-
-### social
-
-- <a href="https://fe32.top/"><img height="16" width="16" src="https://bu.dusays.com/2022/05/17/6283c38e6368f.ico" style="margin-right:4px"> 个人网站，访问量（换过两次域名）累计50w+ </a><br>
-- <a href="https://blog.csdn.net/qq_41356250/"><img height="16" width="16" src="https://g.csdnimg.cn/static/logo/favicon32.ico" style="margin-right:4px"> CSDN主页，访问量10w+,粉丝累计 8424+ </a><br>
-- <a href="https://juejin.cn/user/932843481465774"><img height="16" width="16" src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web//static/favicons/favicon-16x16.png" style="margin-right:4px"> 掘金主页，访问量7w+,粉丝累计100+</a>
 
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="mailto:o0yamete0o@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-o0yamete0o@gmail.com-blue?style=flat-square&logo=gmail"></a>
