@@ -17,7 +17,7 @@
      /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
      \/__/         \/__/         \/__/     \/__/     \/__/    
      
-<strong>Hi, I am Hubert Tian !👋 Business analysis manager, currently living in Beijing, China.</strong>
+<strong>Hi, I am Hubert!👋 Business analysis manager, currently living in Beijing, China.</strong>
 </pre> 
 
 ### ⭐️ &nbsp;Github Star
